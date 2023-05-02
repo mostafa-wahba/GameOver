@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/GameOver/static/css/main.84d402eb.css",
+    "main.js": "/GameOver/static/js/main.b9d3cc61.js",
+    "static/js/787.d1340d69.chunk.js": "/GameOver/static/js/787.d1340d69.chunk.js",
+    "static/media/paladins.png": "/GameOver/static/media/paladins.b44d33d6e7ee1ba8.0fddd1fbe0a5e0a0af93.png",
+    "static/media/gaming.jpg": "/GameOver/static/media/gaming.ebaf2ffc84f4451d.d5751ff804c935b205d3.jpg",
+    "static/media/logo (3).png": "/GameOver/static/media/logo (3).548dc5719c2345c22eef.png",
+    "index.html": "/GameOver/index.html",
+    "main.84d402eb.css.map": "/GameOver/static/css/main.84d402eb.css.map",
+    "main.b9d3cc61.js.map": "/GameOver/static/js/main.b9d3cc61.js.map",
+    "787.d1340d69.chunk.js.map": "/GameOver/static/js/787.d1340d69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84d402eb.css",
+    "static/js/main.b9d3cc61.js"
+  ]
+}
